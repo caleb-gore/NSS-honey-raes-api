@@ -41,6 +41,12 @@
         "fullName": "Jeremy Bakker",
         "isStaff": true,
         "id": 7
+      },
+      {
+        "email": "christina@kovacek.com",
+        "fullName": "Cristina Kovacek",
+        "isStaff": false,
+        "id": 8
       }
     ],
     "customers": [
@@ -61,6 +67,12 @@
         "address": "7346 Ritchie Road",
         "phoneNumber": "(507) 720-1157",
         "userId": 3
+      },
+      {
+        "id": 4,
+        "address": "052 Schmidt Ramp",
+        "phoneNumber": "(359) 595-5039",
+        "userId": 8
       }
     ],
     "employees": [
